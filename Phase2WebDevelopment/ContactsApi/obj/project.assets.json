@@ -1898,11 +1898,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vijaya.Gajula\\OneDrive - techtorium.ac.nz\\Documents\\ADV_Projects_WebDev\\ContactsApi\\ContactsApi.csproj",
+      "projectUniqueName": "C:\\Users\\Vijaya.Gajula\\OneDrive - techtorium.ac.nz\\Documents\\ADV_Projects_WebDev\\Phase2WebDevelopment\\ContactsApi\\ContactsApi.csproj",
       "projectName": "ContactsApi",
-      "projectPath": "C:\\Users\\Vijaya.Gajula\\OneDrive - techtorium.ac.nz\\Documents\\ADV_Projects_WebDev\\ContactsApi\\ContactsApi.csproj",
+      "projectPath": "C:\\Users\\Vijaya.Gajula\\OneDrive - techtorium.ac.nz\\Documents\\ADV_Projects_WebDev\\Phase2WebDevelopment\\ContactsApi\\ContactsApi.csproj",
       "packagesPath": "C:\\Users\\Vijaya.Gajula\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vijaya.Gajula\\OneDrive - techtorium.ac.nz\\Documents\\ADV_Projects_WebDev\\ContactsApi\\obj\\",
+      "outputPath": "C:\\Users\\Vijaya.Gajula\\OneDrive - techtorium.ac.nz\\Documents\\ADV_Projects_WebDev\\Phase2WebDevelopment\\ContactsApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

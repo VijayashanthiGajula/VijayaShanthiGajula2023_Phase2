@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UDseu4DOp17TrOHwMCMiKiO7qOxLv/T8GtNQWdrSHVu1QUgdydjDXE49UWXMOxJXSDbp0jvnriLp3p2LZLeX0A==",
+  "dgSpecHash": "LCq0NTg1lg/wWOlARdijUh6BOns0WJZTM2cZpXchVSIDtUuQ+g96aiRl7M33pgQbutQcOxoiZrPJhdwRDGpUiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vijaya.Gajula\\OneDrive - techtorium.ac.nz\\Documents\\ADV_Projects_WebDev\\ContactsApi\\ContactsApi.csproj",
+  "projectFilePath": "C:\\Users\\Vijaya.Gajula\\OneDrive - techtorium.ac.nz\\Documents\\ADV_Projects_WebDev\\Phase2WebDevelopment\\ContactsApi\\ContactsApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vijaya.Gajula\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Vijaya.Gajula\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.10\\microsoft.aspnetcore.authentication.jwtbearer.7.0.10.nupkg.sha512",
